@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="skin">#F0E4D3</color>
+    <color name="brown">#826453</color>
+    <color name="cream">#F0E4D3</color>
+    <color name="grey">#808080</color>
+    <color name="dark_grey">#404040</color>
+    <color name="transparent">#77FFFFFF</color>
+    <color name="tr_brown">#A9826453</color>
+</resources>

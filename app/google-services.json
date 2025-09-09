@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "280876508605",
+    "project_id": "coffeecast-831c3",
+    "storage_bucket": "coffeecast-831c3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280876508605:android:b6b87b34de5df2ce215ed4",
+        "android_client_info": {
+          "package_name": "com.example.coffeecast"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBksNsZiH7GFWHsCNxH8lxYAAE4btHXfZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280876508605:android:e20f2bd3eb116316215ed4",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBksNsZiH7GFWHsCNxH8lxYAAE4btHXfZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
