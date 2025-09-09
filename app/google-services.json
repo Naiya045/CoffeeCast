@@ -7,38 +7,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:280876508605:android:b6b87b34de5df2ce215ed4",
+        "mobilesdk_app_id": "1:280876508605:android:121f54a74f668fea215ed4",
         "android_client_info": {
-          "package_name": "com.example.coffeecast"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "280876508605-l9rqgdd114qk6ifh7mo1l28cj2ipiqid.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyBksNsZiH7GFWHsCNxH8lxYAAE4btHXfZs"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "280876508605-l9rqgdd114qk6ifh7mo1l28cj2ipiqid.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:280876508605:android:e20f2bd3eb116316215ed4",
-        "android_client_info": {
-          "package_name": "com.example.login"
+          "package_name": "com.coco.coffeecast"
         }
       },
       "oauth_client": [
